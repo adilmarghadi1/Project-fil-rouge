@@ -34,7 +34,7 @@
 
                     <li class="nav-item1">
                         <i class="far fa-envelope"> </i>
-                        <a href="#"> Contact.solicode@gmail.com</a>
+                        <a href="#"> Contact.solicode@gail.com</a>
                     </li>
                 </ul>
             </div>
