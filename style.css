@@ -741,8 +741,6 @@
 
 
 .box3 {
-
-    
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     justify-content: center;
@@ -1052,7 +1050,7 @@ float: left;
     margin-left: 70%;
     font-family: Roboto;
     color: #caf0f8;
-    margin-top: 290px;
+    margin-top: 290px
 }
 
 .image33 p {
